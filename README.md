@@ -13,6 +13,6 @@ Tools: Python pandas, pyplot packages <br>
 Link to Project: https://github.com/Alfigor/data-engineering-data-cleaning.git <br> <br>
 
 Project Name: Data Profiling <br>
-Short Description: Clean csv file and perform data profilling to draw insights about house prices <br>
+Short Description: Clean csv file and perform data profiling to draw insights about house prices <br>
 Tools: pyspark <br>
 Link to Project: https://github.com/Alfigor/data-engineering-data-profiling.git <br> <br>
