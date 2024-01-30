@@ -2,7 +2,7 @@
 Repository of my Data Engineering projects <br>
 
 Project Name: Data Analytics with SQL <br>
-Short Description: Draw insights about Titanic passengers using csv data set; draw insghts about customer and sales from a sample database<br>
+Short Description: Draw insights about Titanic passengers using csv data set; draw insights about customer and sales from a sample database<br>
 Tools: BigQuery, Python sqlite3 package <br>
 Link to Project: https://github.com/Alfigor/data-engineering-SQL-Analytics.git <br> <br>
 
