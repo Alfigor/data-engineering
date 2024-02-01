@@ -16,3 +16,8 @@ Project Name: Data Profiling <br>
 Short Description: Clean csv file and perform data profiling to draw insights about house prices <br>
 Tools: pyspark <br>
 Link to Project: https://github.com/Alfigor/data-engineering-data-profiling.git <br> <br>
+
+Project Name: Exploratory Data Analysis (EDA) & Feature Engineering <br>
+Short Description: Perform EDA and feature engineering to draw insights about income levels <br>
+Tools: Python pandas, pyplot, seaborn, sklearn <br>
+Link to Project: (Work in Progress)
