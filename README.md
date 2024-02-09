@@ -1,5 +1,5 @@
 # Data Engineering and Analytics
-Repository of my Data Engineering projects <br>
+Repository of my Data Engineering and Analytical projects <br>
 
 Project Name: Data Analytics with SQL <br>
 Short Description: Draw insights about Titanic passengers using csv data set; draw insights about customer and sales from a sample database<br>
