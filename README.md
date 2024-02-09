@@ -1,4 +1,4 @@
-# data-engineering
+# Data Engineering and Analytics
 Repository of my Data Engineering projects <br>
 
 Project Name: Data Analytics with SQL <br>
